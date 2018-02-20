@@ -6,3 +6,6 @@ Este projeto é o codigo-fonte da aula 1 de PSW, e explica:
 * loggin
 * testes unitarios
 * Javadoc
+* Maven
+
+Fim.
